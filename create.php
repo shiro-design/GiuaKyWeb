@@ -24,13 +24,13 @@
                         <div class="form-group">
                             <label>Ten loai</label>
                             <input type="text" name="name" class="form-control?>">
-                            <span class="invalid-feedback"><?php echo $name_err;?></span>
+                            <span class="invalid-feedback"><</span>
                         </div>
     
                         <div class="form-group">
                             <label>MoTa</label>
                             <input type="text" name="mota" class="form-control ?>">
-                            <span class="invalid-feedback"><?php echo $salary_err;?></span>
+                            <span class="invalid-feedback"></span>
                         </div>
                         <input type="submit" class="btn btn-primary" name="save" value="Submit">
                         <a href="index.php" class="btn btn-secondary ml-2">Cancel</a>
